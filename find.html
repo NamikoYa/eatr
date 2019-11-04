@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>eatr - find</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+<body>
+
+  <!--<img id="bg" src="https://source.unsplash.com/1600x900/?food,lunch" alt="Background image" />-->
+  <div id="wrapper">
+    <div id="content">
+      <div class="card" style="width: 18rem;">
+        <img id="restaurant-image" src="" class="card-img-top" alt="restaurant image">
+        <div class="card-body">
+          <h5 id="restaurant-name" class="card-title"></h5>
+          <p id="restaurant-description" class="card-text"></p>
+        </div>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">Price <span id="restaurant-price" class="badge"></span></li>
+          <li class="list-group-item">Health Level <span id="restaurant-health-level" class="badge"></span></li>
+        </ul>
+        <div class="card-body">
+          <a id="restaurant-website-link" href="#" class="card-link">Website</a>
+          <a id="restaurant-directions-link" href="#" class="card-link">Directions</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="./js/app.js"></script>
+</body>
+</html>

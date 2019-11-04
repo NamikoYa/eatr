@@ -30,4 +30,10 @@ html {
       -ms-flex-align: center;
           align-items: center;
 }
+
+#restaurant-image {
+  height: 18rem;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
 /*# sourceMappingURL=style.css.map */
