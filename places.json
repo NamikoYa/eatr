@@ -1,0 +1,160 @@
+[
+  {
+    "template" : [
+      {
+        "name" : "name",
+        "loc" : "location",
+        "type" : "country",
+        "cat" : "category",
+        "health" : null,
+        "expense": null
+      }
+    ],
+    "places": [
+      {
+        "name" : "Alte Post",
+        "loc" : "Centralbahnstrasse 21, 4051 Basel",
+        "type" : "swiss",
+        "cat" : "multiple",
+        "health" : 6,
+        "expense": 2
+      },
+      {
+        "name" : "Bahnhof Imbiss",
+        "loc" : "Post-Passage 3, 4051 Basel",
+        "type" : "turkish",
+        "cat" : "Kebab, Döner",
+        "health" : 5,
+        "expense": 1
+      },
+      {
+        "name" : "Bundesbahn",
+        "loc" : "Hochstrasse 59, 4053 Basel",
+        "type" : "swiss",
+        "cat" : "multiple",
+        "health" : 8,
+        "expense": 3
+      },
+      {
+        "name" : "Burger King",
+        "loc" : "Centralbahnpl. 10, 4051 Basel",
+        "type" : "american",
+        "cat" : "burger",
+        "health": 2,
+        "expense": 2
+      },
+      {
+        "name": "China King",
+        "loc" : "Centralbahnstrasse 5, 4051 Basel",
+        "type" : "asian",
+        "cat" : "rice and sauce",
+        "health" : 5,
+        "expense": 2
+      },
+      {
+        "name" : "Coop Restaurant",
+        "loc" : "Güterstrasse 190, 4053 Basel",
+        "type" : "swiss",
+        "cat" : "multiple",
+        "health" : 8,
+        "expense": 2
+      },
+      {
+        "name" : "Coop Supermarkt",
+        "loc" : "Centralbahnpl. 4, 4051 Basel",
+        "type" : "international",
+        "cat" : "multiple",
+        "health" : 7,
+        "expense": 2
+      },
+      {
+        "name" : "Dean and David",
+        "loc" : "Centralbahnpl. 8, 4051 Basel",
+        "type" : "american",
+        "cat" : "multiple",
+        "health" : 10,
+        "expense": 2
+      },
+      {
+        "name" : "La Manifacture",
+        "loc" : "Hochstrasse 56, 4053 Basel",
+        "type" : "american",
+        "cat" : "burger",
+        "health" : 5,
+        "expense": 3
+      },
+      {
+        "name" : "Mac Donalds",
+        "loc" : "Centralbahnstrasse 13, 4051 Basel",
+        "type" : "american",
+        "cat" : "burger",
+        "health" : 1,
+        "expense": 2
+      },
+      {
+        "name" : "Malibu",
+        "loc" : "Centralbahnpl. 6, 4051 Basel",
+        "type" : "hawaiian",
+        "cat" : "pokebowl or shake",
+        "health" : 10,
+        "expense": 3
+      },
+      {
+        "name" : "Markthalle",
+        "loc" : "Steinentorberg 20, 4051 Basel",
+        "type" : "international",
+        "cat" : "multiple",
+        "health" : 6,
+        "expense": 2
+      },
+      {
+        "name" : "Migros Take Away",
+        "loc" : "Centralbahnstrasse 10, 4051 Basel",
+        "type" : "swiss",
+        "cat" : "multiple",
+        "health" : 7,
+        "expense": 2
+      },
+      {
+        "name" : "Restaurant Oase",
+        "loc" : "Post - Passage 5, 4051 Basel",
+        "type" : "international",
+        "cat" : "multiple",
+        "health" : 8,
+        "expense": 2
+      },
+      {
+        "name" : "Salatbar",
+        "loc" : "Güterstrasse 172, 4053 Basel",
+        "type" : "american",
+        "cat" : "salat",
+        "health" : 10,
+        "expense": 3
+      },
+      {
+        "name" : "Subway",
+        "loc" : "Centralbahnpl. 6, 4051 Basel",
+        "type" : "american",
+        "cat" : "sandwich",
+        "health" : 2,
+        "expense": 2
+      },
+      {
+        "name" : "Sutter Begg",
+        "loc" : "Güterstrasse 115, 4051 Basel",
+        "type" : "swiss",
+        "cat" : "bread and sweets",
+        "health" : 5,
+        "expense": 2
+      },
+      {
+        "name" : "World of Pasta",
+        "loc" : "Freie Str. 89, 4051 Basel",
+        "type" : "american",
+        "cat" : "pasta",
+        "health" : 8,
+        "expense": 2
+      }
+    ]
+  }
+]
